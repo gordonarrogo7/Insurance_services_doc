@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>Life Insurance Company</title>
+</head>
+<body>
+  <h1>Life Insurance Company</h1>
+  <h2>Protecting your loved ones since 20XX</h2>
+
+  <p>At Life Insurance Company, we offer a variety of life insurance policies to fit your needs and budget. Our friendly and knowledgeable agents are here to help you understand your options and make the best choice for you and your family.</p>
+
+  <h3>Our Life Insurance Policies:</h3>
+  <ul>
+    <li>Term Life Insurance</li>
+    <li>Whole Life Insurance</li>
+    <li>Universal Life Insurance</li>
+    <li>Variable Life Insurance</li>
+  </ul>
+
+  <p>Contact us today to learn more and get a free quote.</p>
+</body>
+</html>

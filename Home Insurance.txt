@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>Home Insurance Company</title>
+</head>
+<body>
+  <h1>Home Insurance Company</h1>
+  <h2>Protecting your home since 20XX</h2>
+
+  <p>At Home Insurance Company, we offer comprehensive home insurance policies to protect your home and belongings. Our policies cover a wide range of potential damages, including fire, theft, and natural disasters. Our agents are here to help you understand your options and find the right policy for you.</p>
+
+  <h3>Our Home Insurance Policies:</h3>
+  <ul>
+    <li>Standard Home Insurance</li>
+    <li>Renters Insurance</li>
+    <li>Condo Insurance</li>
+    <li>Landlord Insurance</li>
+  </ul>
+
+  <p>Contact us today to learn more and get a free quote.</p>
+</body>
+</html>

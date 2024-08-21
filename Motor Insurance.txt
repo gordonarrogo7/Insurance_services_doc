@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>Motor Insurance Company</title>
+</head>
+<body>
+  <h1>Motor Insurance Company</h1>
+  <h2>Protection for your vehicle since 20XX</h2>
+
+  <p>At Motor Insurance Company, we offer a variety of car insurance policies to fit your needs and budget. Our policies cover a wide range of potential damages, including accidents, theft, and natural disasters. Our agents are here to help you understand your options and find the right policy for you and your vehicle.</p>
+
+  <h3>Our Car Insurance Policies:</h3>
+  <ul>
+    <li>Liability Insurance</li>
+    <li>Collision Insurance</li>
+    <li>Comprehensive Insurance</li>
+    <li>Full Coverage Insurance</li>
+  </ul>
+
+  <p>Contact us today to learn more and get a free quote.</p>
+</body>
+</html>
